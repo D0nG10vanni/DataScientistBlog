@@ -25,7 +25,7 @@ SciKit Learn, Matplotlib, numpy and pandas
 2. Analysis.ipynb: This is the script which was used to conduct the analysis
 
 ### Results
-I was able to create a pretty accurate model (R² = 0.93) 
+I was able to create a pretty accurate model (R² = 0.94) 
 
 More can be read here:
 https://medium.com/@ytmusicgiovanni/predicting-ancient-roman-monuments-8d709285de30
