@@ -31,4 +31,4 @@ More can be read here:
 https://medium.com/@ytmusicgiovanni/predicting-ancient-roman-monuments-8d709285de30
 
 ### Acknowledgements
-I would like to thank the "project mercury" (https://projectmercury.eu/) for providing the data.
+I would like to thank the "project mercury" (https://projectmercury.eu/) for providing the data, as well as "thoughtco" ("https://www.thoughtco.com/ancient-landmarks-of-rome-117760") for the image used as thumbnail.
